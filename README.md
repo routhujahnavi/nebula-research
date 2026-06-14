@@ -118,7 +118,7 @@ npm install
 ### 4. Configure Environment Variables
 Create a `.env.local` file in the root directory and add your Context.dev API credentials:
 ```env
-CONTEXT_DEV_API_KEY=ctxt_secret_8000271d49e744b9b4c577f18edaeebd
+CONTEXT_DEV_API_KEY= your context dev api tey extract it from its official website
 ```
 
 ### 5. Run Development Server
